@@ -8,7 +8,7 @@ function main()
 
 	if( args.length == 0 )
 	{
-		args = ["hw4.js"];
+		args = ["analysis.js"];
 	}
 	var filePath = args[0];
 	
